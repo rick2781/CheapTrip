@@ -39,6 +39,8 @@ On MAC you can find on: System Preferences > Network
 local server that will be under "http" protocol. If you still want to do this way there are couple workaround that a simple google search
 will do the job.
 
+*App created on Android Studio 3.2 beta 5*
+
 ## <a name="runninglocalserver">Running Django Local Server</a>
 
 If you already know how to setup a Django project you need to run the server like this:
