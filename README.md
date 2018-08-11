@@ -17,7 +17,7 @@ For example, it will have a page for Dagger2 where I will be covering the basics
 
 Also, it will contain a lot of good external resources where you can learn more about that subject and consolidate your knowledge from a different perspective.
 
-Click [here](https://github.com/rickpms/CheapTrip/wiki/Project-X-Ray) to access.
+Click [here](https://github.com/rickpms/CheapTrip/wiki) to access.
 
 ## How to Build
 
