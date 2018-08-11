@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "placeIcon": "http://localhost:8000/media/destination_images/GettyImages-538096543_medium_HHF6nYC.jpg",
+    "origin": "San Diego",
+    "destination": "New York",
+    "departure": "2018-08-10T00:05:00Z",
+    "arrival": "2018-08-10T15:30:00Z",
+    "price": 380
+  },
+  {
+    "id": 2,
+    "placeIcon": "http://localhost:8000/media/destination_images/SanDiego1_2o95ZYg.jpg",
+    "origin": "Miami",
+    "destination": "San Diego",
+    "departure": "2018-08-10T15:30:00Z",
+    "arrival": "2018-08-10T17:50:00Z",
+    "price": 500
+  },
+  {
+    "id": 3,
+    "placeIcon": "http://localhost:8000/media/destination_images/f3eb5322-82e5-4751-9370-55607aaaef29.hw1_jJBrElg.jpg",
+    "origin": "Maine",
+    "destination": "Seattle",
+    "departure": "2018-08-10T19:00:00Z",
+    "arrival": "2018-08-10T21:30:00Z",
+    "price": 850
+  }
+]
