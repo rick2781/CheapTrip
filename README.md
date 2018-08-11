@@ -9,23 +9,15 @@ will try my best to help you as much as I can.
 
 ## Project X-Ray
 
-Throughout this project's development I will be updating this section with a detailed explanation about the "hard to understand" 
-components implemented here such as NetworkBoundResource class, repository pattern, MVVM, Dagger...
+Throughout this project's development I will be updating the wiki with tons of specific information about this project.
 
-Also, I will explain how I started and what is the "path" I've been following along in this project.
+In the future I plan to have one page explaining the implementation of each component in my app.
 
-One of the main issues I had whenever I started studying a new sample project was that everything was already done. 
+For example, it will have a page for Dagger2 where I will be covering the basics and how I implemented it in this app.
 
-Even though I understood the concepts I was trying to learn I still didn't have any clue on how to apply it in my projects 
-from scratch. 
+Also, it will contain a lot of good external resources where you can learn more about that subject and consolidate your knowledge from a different perspective.
 
-Because of that, I know how important it is to not only understand the concept itself but to learn which order it was built. 
-
-Of course, there is no right way or right path but a little help in the beginning will help you fully understand 
-the subject and make you adapt yourself better to any project or problem you are facing.
-
-Besides that, I will be recommending a lot of external resources where you can learn and consolidate your 
-knowledge from another perspective instead of keeping hunting out there for good resources to learn.
+Click [here](https://github.com/rickpms/CheapTrip/wiki/Project-X-Ray) to access.
 
 ## How to Build
 
