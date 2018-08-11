@@ -25,7 +25,7 @@ For this project I wanted to create something related to travel. Unfortunately, 
 implement travel API (maybe I didn't search enough) to use in this project. For this reason I decided to create my own API
 fed by dummy data to mock API calls.
 
-In order to build this project you will need to download the Django project and run it. Step by step [here](#runninglocalserver).
+In order to build this project you will need to [download the Django project](https://github.com/rickpms/CheapTripDjango) and run it. Step by step [here](#runninglocalserver).
 
 If you already downloaded this project and ran the Django local server you need to set up the base url correctly to start fetching data
 from API. The retrofit service is being created inside AppModule.kt and the base url parameter on "Retrofit.Builder()" is what you
