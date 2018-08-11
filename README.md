@@ -75,6 +75,7 @@ things that haven't been implemented yet.
 | Set Empty Recycler View State | Easy |
 | Fix date time format | Easy |
 | Add Tests For Initial Commit  | Hard |
+| Integrate Paging Library  | Hard |
 | Flight Detail Activity | Hard |
 
 ## What Next (Django)
