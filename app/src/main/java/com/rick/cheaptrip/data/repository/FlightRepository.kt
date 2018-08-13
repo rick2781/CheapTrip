@@ -10,12 +10,12 @@ import com.rick.cheaptrip.utils.Resource
 import com.rick.cheaptrip.utils.reactive.AppSchedulerProvider
 import javax.inject.Inject
 
-class FlightRepository @Inject constructor(
+open class FlightRepository @Inject constructor(
         val flightDao: FlightDao,
         val appSchedulerProvider: AppSchedulerProvider,
         val apiService: ApiService) {
 
-    fun loadFlights(): LiveData<Resource<List<Flight>>> {
+    open fun loadFlights(): LiveData<Resource<List<Flight>>> {
 
         return object : NetworkBoundResource<List<Flight>, List<Flight>>(appSchedulerProvider) {
 

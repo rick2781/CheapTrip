@@ -86,11 +86,19 @@ dependencies {
      */
 
     //AAC Testing
-    testImplementation "androidx.arch.core:core-testing:$aac_version"
+    androidTestImplementation "androidx.arch.core:core-testing:$aac_version"
     testImplementation "androidx.room:room-testing:$aac_version"
+
+    //Mockito
+    implementation 'org.mockito:mockito-android:2.21.0'
 
     //MockWebServer
     testImplementation 'com.squareup.okhttp3:mockwebserver:3.11.0'
+
+    //Espresso Android Tests
+    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
+    androidTestImplementation 'com.android.support.test:runner:1.0.2'
+    androidTestImplementation 'com.android.support.test:rules:1.0.2'
 }
 
 subprojects {
