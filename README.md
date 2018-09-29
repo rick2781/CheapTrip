@@ -71,6 +71,7 @@ things that haven't been implemented yet.
 | ------------- |:-------------:|
 | Tweak Flight List Item UI/UX     | Easy |
 | Progress Bar (Synced with Resource Object) | Easy |
+| Pull to refresh | Easy |
 | Login/Register Activity | Easy |
 | Set Empty Recycler View State | Easy |
 | Fix date time format | Easy |
