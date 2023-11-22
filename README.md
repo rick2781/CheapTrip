@@ -89,8 +89,6 @@ things that haven't been implemented yet.
 | Dynamic Search Endpoints     | Hard |
 
 ## Contact Me
-
- * **Email** - ricksofteng@gmail.com
  * **Medium** - https://medium.com/@rickprata
 
 ## License
